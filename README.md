@@ -14,11 +14,7 @@ Sou um dedicado estudante pela área da programação e desenvolvimento de siste
 
 Estou em constante aprimoramento das seguintes habilidades:
 
-- Linguagens de Programação: [J]
-- Desenvolvimento de Aplicações Web: [experiência ou interesse em frameworks, tecnologias web, etc.]
-- Desenvolvimento de Aplicativos Móveis: [se for relevante para você]
-- Banco de Dados: [se tiver conhecimento ou interesse em bancos de dados]
-- Outras Habilidades Técnicas: [quaisquer outras habilidades que você esteja desenvolvendo]
+- Conhecimentos em CSS, HTML, MYSQL, FIGMA, JAVASCRIPT, C++ E PYTHON.
 
 #### Projetos
 
@@ -26,11 +22,8 @@ Atualmente, estou focado em aprimorar minhas habilidades através de projetos pe
 
 #### Contato
 
-- **Email:** [seu endereço de email]
-- **LinkedIn:** [seu perfil do LinkedIn, se tiver]
+- **Email:** 
+- **LinkedIn:** []
 
 Sinta-se à vontade para entrar em contato comigo caso queira discutir colaborações, projetos interessantes ou apenas trocar ideias sobre tecnologia. Estou ansioso para conectar-me com outros entusiastas e profissionais do ramo.
 
----
-
-Sinta-se à vontade para personalizar as seções de acordo com suas preferências e experiências específicas. Boa sorte em sua jornada de desenvolvimento!
