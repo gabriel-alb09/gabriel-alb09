@@ -14,7 +14,7 @@ Sou um dedicado estudante pela área da programação e desenvolvimento de siste
 
 Estou em constante aprimoramento das seguintes habilidades:
 
-- Conhecimentos em CSS, HTML, MYSQL, FIGMA, JAVASCRIPT, C++ E PYTHON.
+- Conhecimentos em CSS, HTML, MYSQL, FIGMA, JAVASCRIPT, C E PYTHON.
 
 #### Projetos
 
@@ -22,8 +22,8 @@ Atualmente, estou focado em aprimorar minhas habilidades através de projetos pe
 
 #### Contato
 
-- **Email:** 
-- **LinkedIn:** []
+- **Email: gabriellimaalb@outlook.com** 
+- **LinkedIn: https://www.linkedin.com/in/gabriel-lima-633199267**
 
 Sinta-se à vontade para entrar em contato comigo caso queira discutir colaborações, projetos interessantes ou apenas trocar ideias sobre tecnologia. Estou ansioso para conectar-me com outros entusiastas e profissionais do ramo.
 
